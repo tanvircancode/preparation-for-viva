@@ -5,4 +5,6 @@
 * [বাইনারি সার্চ](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxkaXB1Y3NlZGl1fGd4OjYwOGU0MmUzNDQzNzBjZGY)  - [তামিম শাহরিয়ার সুবিন](https://au.linkedin.com/in/tamimshahriar)
 * [বাইনারি সার্চ কমপ্লেক্সিটি ](https://www.geeksforgeeks.org/complexity-analysis-of-binary-search/)  
 * [বাইনারি সার্চ ট্রি বুঝার উপায়](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)  
+* [লিংকড লিস্ট](http://www.shafaetsplanet.com/?p=2689)  - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+
 
