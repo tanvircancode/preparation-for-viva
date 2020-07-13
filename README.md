@@ -12,6 +12,8 @@
 * [স্ট্যাক ইম্প্লিমেন্টেশন](https://www.geeksforgeeks.org/stack-in-cpp-stl/)  
 * [কিউ ইম্প্লিমেন্টেশন](https://www.geeksforgeeks.org/queue-cpp-stl/)  
 * [বাবল সর্ট](https://hellohasan.com/2016/10/18/%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%B2-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%9F-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE-bubble-sort-algorithm/)  - [হাসান আব্দুল্লাহ](https://bd.linkedin.com/in/abdullah-al-hasan-376030b1)
+[মার্জ সর্ট](https://hellohasan.com/2016/10/22/%e0%a6%ae%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9c-%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%9f-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a6%97%e0%a6%b0%e0%a6%bf%e0%a6%a6%e0%a6%ae-merge-sort-algorithm/)  - [হাসান আব্দুল্লাহ](https://bd.linkedin.com/in/abdullah-al-hasan-376030b1)
+[কুইক সর্ট](https://hellohasan.com/2016/11/02/%e0%a6%95%e0%a7%81%e0%a6%87%e0%a6%95-%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%9f-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a6%97%e0%a6%b0%e0%a6%bf%e0%a6%a6%e0%a6%ae-quicksort-algorithm/)  - [হাসান আব্দুল্লাহ](https://bd.linkedin.com/in/abdullah-al-hasan-376030b1)
 #### অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং 
 * [বেসিক OOP](https://www.javatpoint.com/cpp-oops-concepts)
 
