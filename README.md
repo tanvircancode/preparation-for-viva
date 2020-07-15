@@ -15,7 +15,7 @@
 * [মার্জ সর্ট](https://hellohasan.com/2016/10/22/%e0%a6%ae%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9c-%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%9f-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a6%97%e0%a6%b0%e0%a6%bf%e0%a6%a6%e0%a6%ae-merge-sort-algorithm/)  - [হাসান আব্দুল্লাহ](https://bd.linkedin.com/in/abdullah-al-hasan-376030b1)
 * [কুইক সর্ট](https://hellohasan.com/2016/11/02/%e0%a6%95%e0%a7%81%e0%a6%87%e0%a6%95-%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%9f-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a6%97%e0%a6%b0%e0%a6%bf%e0%a6%a6%e0%a6%ae-quicksort-algorithm/)  - [হাসান আব্দুল্লাহ](https://bd.linkedin.com/in/abdullah-al-hasan-376030b1)
 * [ইনসার্শন সর্ট](https://www.programiz.com/dsa/insertion-sort)
-* [রিকার্সন] - [পার্ট-১](https://hellohasan.com/2016/11/11/%e0%a6%b0%e0%a6%bf%e0%a6%95%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%b8%e0%a6%bf%e0%a6%ad-%e0%a6%ab%e0%a6%be%e0%a6%82%e0%a6%b6%e0%a6%a8-recursive-function-recursion/) - [পার্ট-২](https://hellohasan.com/2016/11/23/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A6%BF%E0%A6%AD-factorial-recursive-function-recursion-2/) 
+* [রিকার্সন] - [পার্ট-১](https://hellohasan.com/2016/11/11/%e0%a6%b0%e0%a6%bf%e0%a6%95%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%b8%e0%a6%bf%e0%a6%ad-%e0%a6%ab%e0%a6%be%e0%a6%82%e0%a6%b6%e0%a6%a8-recursive-function-recursion/) - [পার্ট-২](https://hellohasan.com/2016/11/23/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A6%BF%E0%A6%AD-factorial-recursive-function-recursion-2/) -  [পার্ট-৩](https://hellohasan.com/2019/09/14/fibonacci-c-program-recursive-4/) 
 
 
 
