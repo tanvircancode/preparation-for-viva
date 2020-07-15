@@ -28,3 +28,6 @@
 
 #### সি বেসিক
 * [বেসিক অফ C](https://www.tutorialspoint.com/cprogramming/index.htm) 
+
+#### অপারেটিং সিস্টেম
+* [OS](https://www.javatpoint.com/operating-system-interview-questions) 
