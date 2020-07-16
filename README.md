@@ -18,10 +18,15 @@
 * রিকার্সন - [পার্ট-১](https://hellohasan.com/2016/11/11/%e0%a6%b0%e0%a6%bf%e0%a6%95%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%b8%e0%a6%bf%e0%a6%ad-%e0%a6%ab%e0%a6%be%e0%a6%82%e0%a6%b6%e0%a6%a8-recursive-function-recursion/) - [পার্ট-২](https://hellohasan.com/2016/11/23/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A6%BF%E0%A6%AD-factorial-recursive-function-recursion-2/) -  [পার্ট-৩](https://hellohasan.com/2019/09/14/fibonacci-c-program-recursive-4/) 
 
 
+#### অপারেটিং সিস্টেম
+* [OS](https://www.javatpoint.com/operating-system-interview-questions) 
 
 #### অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং 
 * [বেসিক OOP](https://www.javatpoint.com/cpp-oops-concepts)
 
+
+#### কম্পিউটার নেটওয়ার্ক
+* [CN](https://www.softwaretestinghelp.com/networking-interview-questions-2/) 
 
 #### ডাটাবেজ (SQL)
 * [বেসিক SQL](https://www.w3schools.com/sql/default.asp)
@@ -29,5 +34,3 @@
 #### সি বেসিক
 * [বেসিক অফ C](https://www.tutorialspoint.com/cprogramming/index.htm) 
 
-#### অপারেটিং সিস্টেম
-* [OS](https://www.javatpoint.com/operating-system-interview-questions) 
