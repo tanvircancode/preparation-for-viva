@@ -24,7 +24,7 @@
 #### মেশিন লার্নিং
 * [edureka](https://www.edureka.co/blog/interview-questions/machine-learning-interview-questions/) 
 * [simplilearn](https://www.simplilearn.com/tutorials/machine-learning-tutorial/machine-learning-interview-questions)
-
+* KNN, k-means, naive bayes, Decision Tree, Perceptron from [নাফিস নিহাল](https://www.rokomari.com/book/173164/machine-learning-algorithm?ref=rsp)
 
 #### কম্পিউটার নেটওয়ার্ক
 * [CN](https://www.softwaretestinghelp.com/networking-interview-questions-2/) 
