@@ -1,5 +1,5 @@
-# preparation-for-viva
-### ভার্সিটি ভাইবা বোর্ড এ বসার জন্য আমার প্রিপারেশন
+# preparation-for-university-viva
+
 #### ডাটা স্ট্রাকচার এবং এলগোরিদম 
 
 * [কমপ্লেক্সিটি-বিগ "O" নোটেশন](http://www.shafaetsplanet.com/planetcoding/?p=1313)  - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -21,8 +21,9 @@
 #### অপারেটিং সিস্টেম
 * [OS](https://www.javatpoint.com/operating-system-interview-questions) 
 
-#### অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং 
-* [বেসিক OOP](https://www.javatpoint.com/cpp-oops-concepts)
+#### মেশিন লার্নিং
+* [edureka](https://www.edureka.co/blog/interview-questions/machine-learning-interview-questions/) 
+* [simplilearn](https://www.simplilearn.com/tutorials/machine-learning-tutorial/machine-learning-interview-questions)
 
 
 #### কম্পিউটার নেটওয়ার্ক
@@ -30,6 +31,9 @@
 
 #### ডাটাবেজ (SQL)
 * [বেসিক SQL](https://www.w3schools.com/sql/default.asp)
+
+#### অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং 
+* [বেসিক OOP](https://www.javatpoint.com/cpp-oops-concepts)
 
 #### সি বেসিক
 * [বেসিক অফ C](https://www.tutorialspoint.com/cprogramming/index.htm) 
